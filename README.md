@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Purva Sonaje from chanser,Jalgoan<br><br>- 🔭 I’m learning as Data Science Student<br>- 📚 I'm currently learning in Second Year of Engineering<br>- ⚡ In my free time I appreciate my hobbies</p>
 
 ###
 
